@@ -48,6 +48,9 @@ elhaze29
 ## License
 
 This project is open source and available under the MIT License. 
+<<<<<<< HEAD
 =======
 # Muties-web
 >>>>>>> 5dce5f59b4889510bda9410124e38d2d7b4f256b
+=======
+>>>>>>> 5416d67d97814b9dceaad561cb60317dc156a4d0
