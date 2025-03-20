@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My First GitHub Project
 
 A modern, responsive web application showcasing my journey into web development. This project demonstrates basic HTML, CSS, and JavaScript skills with a clean, professional design.
@@ -47,3 +48,6 @@ elhaze29
 ## License
 
 This project is open source and available under the MIT License. 
+=======
+# Muties-web
+>>>>>>> 5dce5f59b4889510bda9410124e38d2d7b4f256b
