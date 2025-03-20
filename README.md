@@ -1,4 +1,4 @@
-# My First GitHub Project
+# My First GitHub Project (What's up Tony?)
 
 A modern, responsive web application showcasing my journey into web development. This project demonstrates basic HTML, CSS, and JavaScript skills with a clean, professional design.
 
